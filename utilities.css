@@ -1,0 +1,38 @@
+.imgSize{
+    height: 35px;
+}
+.logo{
+    font-size: 40px;
+    color: rgb(55, 249, 123);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 20px ;
+}
+.blue{
+    background-color: #a6bfe2;
+    border: 2px solid #a6bfe2;
+    
+}
+.blue:hover{
+    scale: 1.1;
+    transition: 0.5s;
+    box-shadow: 2px 2px 5px black;
+}
+.yellow{
+    background-color: #F8E2A2;
+    border: 2px solid #F8E2A2;
+    box-shadow: 2px 2px 5px #f2d377;
+}
+.yellow:hover{
+    scale: 1.1;
+    transition: 0.5s;
+    box-shadow: 2px 2px 5px black;
+}
+.pink{
+    background-color: #DF9F9E;
+    border: 2px solid #DF9F9E;
+}
+.pink:hover{
+    scale: 1.1;
+    transition: 0.5s;
+    box-shadow: 2px 2px 5px black;
+}
